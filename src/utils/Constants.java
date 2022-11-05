@@ -1,6 +1,9 @@
 package utils;
 
-public class Utils {
+/**
+ * Classes com constantes importantes utilizadas no programa
+ */
+public class Constants {
     public static final String USERNAME = "username";
     public static final String MESSAGE = "message";
     public static final String SKIP = "s";
